@@ -4,7 +4,7 @@ Sona Power Predict – 2026
 College Name:
 Sona College of Technology
 
-Team Name
+Team Name:
 Hack Hitters
 
 Team Members:
